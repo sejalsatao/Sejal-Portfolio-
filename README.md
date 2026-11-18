@@ -107,11 +107,9 @@ Developed a smart fire detection system capable of automatically activating a wa
 
 ## 📬 Contact
 
-📧 Email: *[your-email@example.com](mailto:your-email@example.com)*
+📧 Email: sejalsatao15@gmail.com
 
-💼 LinkedIn: *Add your LinkedIn URL*
-
-🐙 GitHub: *Add your GitHub Profile URL*
+💼 LinkedIn: www.linkedin.com/in/sataosejal15
 
 
 ---
@@ -133,6 +131,4 @@ This is my personal portfolio project. Suggestions and feedback are always welco
 
 ---
 
-## 📄 License
 
-This project is open source and available under the **MIT License**.
